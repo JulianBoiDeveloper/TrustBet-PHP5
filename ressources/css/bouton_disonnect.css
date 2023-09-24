@@ -1,0 +1,6 @@
+.btn_account a{
+    color: white !important;
+}
+.btn_account a:hover{
+  color: white;
+}
